@@ -5,6 +5,7 @@
 <br>
 <p>Tecnologias usadas</p>
 - HTML
+<br>
 - CSS
 <br>
 <img src="https://github.com/HelioBorges26/Easy-Shopping/blob/main/assets/desktop.png?raw=true"/>
